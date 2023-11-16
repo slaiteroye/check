@@ -1,1 +1,5 @@
-Checker for openvpn 
+Checker for openvpn
+
+If you created vpn channel and want to check his stability
+
+Before create screen window, for example "screen -S window" run the script 
